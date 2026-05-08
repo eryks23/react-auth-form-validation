@@ -2,6 +2,7 @@
   "name": "my-contact-manager",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://eryks23.github.io/react-auth-form-validation/",
   "type": "module",
   "scripts": {
     "dev": "vite",
